@@ -76,7 +76,7 @@ margin-bottom: 40px;
 
 .container{
 	text-align:center;
-	box-shadow: 0px 15px 20px 0px black;
+	box-shadow: 0 0 2px #05090e;
 	background-color: #0d1521;
 	display: table;
   	align-items: center;
